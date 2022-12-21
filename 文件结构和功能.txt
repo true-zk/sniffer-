@@ -1,0 +1,19 @@
+
+文件简介：
+	项目开发测试文档：		\sniffer开发报告.docx
+	函数调用流程图，数据结构：     \项目流程图和数据结构.pdf
+
+	源代码目录：		\Sniffer
+	vs解决方案：		\Sniffer\Sniffer.sln
+	网络包结构体定义：		\Sniffer\protocol.h
+
+	可执行程序目录：		\Sniffer_Release
+	启动程序：		\Sniffer_Release\Sniffer.exe
+	说明文件：		\Sniffer_Release\执行测试说明.md
+
+	Demo:			\demo.mp4
+
+实现的功能：抓包（除了基本的还扩充了ipv6 icmpv6协议） 显示协议信息 显示数据 Ip分片重组
+	    保存读取包 过滤包
+
+	
