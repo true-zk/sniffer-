@@ -1,5 +1,6 @@
 # sniffer
 基于winpcap MFC的简单的网络抓包器/勉强能用/课程大作业(A simple sniffer based winpcap&amp;MFC. As a design of network course, it is crude and may have bugs!)
+
 开发环境(coding environment)：vs 2019 + winpcap SDK + MFC
 测试环境(running environment)：win10 + winpcap(must be installed and run at first)
 
@@ -8,3 +9,5 @@ https://learn.microsoft.com/zh-cn/cpp/mfc/mfc-application-architecture-classes?v
 
 ![项目流程图和数据结构.png](https://user-images.githubusercontent.com/75082700/208914122-35e6224d-3e45-419b-928e-f625ce0341c9.png)
 [项目流程图和数据结构.pdf](https://github.com/true-zk/sniffer-/files/10277871/default.pdf)
+
+（肝了六天，实在肝疼。。。而且其实还有些诡异bug不过也不想修了，确实头一次写这么个比较大的东西还是有很多问题的。。。）
