@@ -11,7 +11,6 @@
 	启动程序：		\Sniffer_Release\Sniffer.exe
 	说明文件：		\Sniffer_Release\执行测试说明.md
 
-	Demo:			\demo.mp4
 
 实现的功能：抓包（除了基本的还扩充了ipv6 icmpv6协议） 显示协议信息 显示数据 Ip分片重组
 	    保存读取包 过滤包
