@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  Sniffer.cpp
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(47,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(69,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(105,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(114,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(123,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(136,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(148,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(162,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pkt_T”的左侧
+  SnifferDlg.cpp
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(47,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(69,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(105,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(114,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(123,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(136,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(148,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(162,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pkt_T”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\SnifferDlg.cpp(434,37): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\Desktop\jw\final\sniffer\Sniffer\SnifferDlg.cpp(1299,12): warning C4101: “netpos”: 未引用的局部变量
+  util.cpp
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(33,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(47,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(69,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(105,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(114,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(123,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(136,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(148,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(162,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\Protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pkt_T”的左侧
+D:\Desktop\jw\final\sniffer\Sniffer\util.cpp(40,12): warning C4305: “return”: 从“int”到“bool”截断
+D:\Desktop\jw\final\sniffer\Sniffer\util.cpp(187,34): warning C4244: “=”: 从“float”转换到“u_int”，可能丢失数据
+D:\Desktop\jw\final\sniffer\Sniffer\util.cpp(202,30): warning C4244: “=”: 从“float”转换到“u_int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Sniffer.vcxproj -> D:\Desktop\jw\final\sniffer\Sniffer\x64\Release\Sniffer.exe
